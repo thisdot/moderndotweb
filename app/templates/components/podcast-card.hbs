@@ -1,5 +1,5 @@
 <div class="card-image">
-  {{#link-to 'modern-web-podcast.podcast' podcast.slug}}
+  <a href="{{podcastLink}}" target="_blank">
     {{#if (eq podcast.kind 'podbean')}}
       <img src="{{podcast.imageUrl}}"/>
     {{else}}
@@ -7,11 +7,14 @@
     {{/if}}
 
     <span class="card-title force-wrap {{if (eq podcast.kind 'podbean') 'black-text white-text-background'}}">{{podcast.title}}</span>
-  {{/link-to}}
+  </a>
 </div>
 
 <div class="card-content">
   {{#read-more maxHeight="3.1em"}}
     {{{podcast.body}}}
+    <a href="#" target="_blank">
+      Go to podcast
+    </a>
   {{/read-more}}
 </div>
