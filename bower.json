@@ -1,8 +1,9 @@
 {
   "name": "modernweb",
   "dependencies": {
-    "ember": "~2.9.0",
-    "ember-cli-shims": "0.1.3",
     "materialize": "0.97.6"
+  },
+  "devDependencies": {
+    "ember": "2.13.0"
   }
 }
