@@ -2,8 +2,5 @@
   "name": "modernweb",
   "dependencies": {
     "materialize": "0.97.6"
-  },
-  "devDependencies": {
-    "ember": "2.13.0"
   }
 }
