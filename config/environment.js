@@ -31,7 +31,11 @@ module.exports = function(environment) {
         /fastboot-moderndotweb-dot-this-dot.appspot.com/,
         /^localhost:\d+$/
       ]
-    }
+    },
+
+    moment: {
+      includeTimezone: 'subset'
+    },
   };
 
   if (environment === 'development') {

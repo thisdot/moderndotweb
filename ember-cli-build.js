@@ -11,6 +11,7 @@ module.exports = function(defaults) {
       ]
     },
     fingerprint: {
+      generateAssetMap: true,
       replaceExtensions: ['html', 'js', 'css', 'json'],
       exclude: ['assets/assetMap.json'],
       ignore: ['assets/assetMap.json'],
