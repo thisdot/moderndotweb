@@ -2,7 +2,7 @@
 title: S04E03 - UI Components - Challenges and Best Practices Across Web and Native
 slug: s04e03-ui-components
 date: Thu Mar 02 2017 12:32:07 GMT+0200 (CAT)
-media-id: ui-components-challenges-and-best-practices-across-web-and-native
+media-id: eksii-660376
 kind: podbean
 author: modern-web
 section: podcast
