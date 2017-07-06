@@ -2,7 +2,7 @@
 title: S04E02 - Polymer and Web Components vs Frameworks (Jerry Springer Edition)
 slug: s04e02-polymer-web-components-frameworks
 date: Thu Mar 02 2017 12:31:38 GMT+0200 (CAT)
-media-id: s04e02-polymer-and-web-components-vs-frameworks-jerry-springer-edition
+media-id: s6eia-65d088
 kind: podbean
 author: modern-web
 section: podcast
